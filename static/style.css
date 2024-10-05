@@ -1,0 +1,41 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: sans-serif;
+    
+}
+
+body{
+    /* background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(plant.jpg); */
+    height:100vh;
+    background-color: rgb(225, 238, 201);
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+table, td {
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+  }
+  table{
+    margin-top: 40px;
+  }
+h1 {
+    margin-top: 20px;
+  }
+  h6{
+    margin-top: 30px;
+  }
+#btn{
+  width: 200px;
+  font-size: 17px;
+  height: 30px;
+  border-radius: 10px;
+  color: rgb(41, 127, 226);
+}
+#btn:hover{
+  font-size: 18px;
+}
